@@ -1190,7 +1190,7 @@ body.nav-active .nav__list-item .active {
 	line-height: 35px;
 	letter-spacing: 1px;
 	margin-bottom: 30px;
-	max-width: 250px;
+	/* max-width: 250px; */
 }
 
 .project-slider-left .project-details p {
